@@ -1,0 +1,21 @@
+.icon {
+  height: auto;
+  width: 100%;
+}
+
+.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 24.3%;
+  text-align: center;
+}
+
+#pic {
+  width: 100%;
+  margin: 5px;
+}
+
+body {
+  text-align: center;
+}
